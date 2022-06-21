@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @HenriqueSoubhia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 bom dia, eu sou sopa
+- 👀 eu quero fazer um jogo em javascript
+- 🌱 discípulo do melhor programador e ele é careca
+- 💞️ gosto de gatas
+- 📫 localhost:8
 
 <!---
-HenriqueSoubhia/HenriqueSoubhia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+eu sou especial, minha mãe que disse😁
 --->
