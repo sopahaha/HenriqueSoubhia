@@ -1,4 +1,4 @@
-<h1>Oi oi, sou o sopa!</h1>
+<h1 align="center">Oi oi, sou o sopa!</h1>
 
 - 👋 bom dia, eu sou sopa
 - 👀 eu quero fazer um jogo em javascript
