@@ -1,10 +1,9 @@
 <h1 align="center">Oi oi, sou o sopa!</h1>
+<hr>
 
-- 👋 bom dia, eu sou sopa
-- 👀 eu quero fazer um jogo em javascript
-- 🌱 discípulo do melhor programador e ele é careca
-- 💞️ gosto de gatas
-- 📫 localhost:8
+- 🤗Quero trabalhar como full-stack
+- 👀 Estou aprendendo JavaScript
+
 
 <!---
 eu sou especial, minha mãe que disse😁
