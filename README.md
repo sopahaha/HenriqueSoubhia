@@ -1,4 +1,4 @@
-##Oi oi, sou o sopa!
+## Oi oi, sou o sopa!
 
 - 👋 bom dia, eu sou sopa
 - 👀 eu quero fazer um jogo em javascript
